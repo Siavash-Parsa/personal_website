@@ -49,14 +49,14 @@ a:hover {
 .Bottom-Cloud {
     position: absolute;
     top: 420px;
-    left:350px;
+    left:150px;
 
 
 }
 
 .Top-Cloud {
     position: absolute;
-    right: 400px;
+    right: 100px;
     Top: 100px;
 }
 .Mountain {
